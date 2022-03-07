@@ -38,7 +38,6 @@
   - [pi_flex_layout_old](https://github.com/GaiaWorld/pi_flex_layout_old)
   - [pi_bincode](https://github.com/GaiaWorld/pi_bincode)
   - [pi_densevec](https://github.com/GaiaWorld/pi_densevec)
-  - [pi_ordmap](https://github.com/GaiaWorld/pi_ordmap)
   - [pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)
   - [pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)
   - [pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)
@@ -48,6 +47,7 @@
 
 #### 正在用
 
++ [pi_ordmap](https://github.com/GaiaWorld/pi_ordmap)
 + [pi_any](https://github.com/GaiaWorld/pi_any)
 + [pi_async_graph](https://github.com/GaiaWorld/pi_async_graph)
 + [pi_atom](https://github.com/GaiaWorld/pi_atom)
