@@ -42,6 +42,7 @@
   - [pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)
   - [pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)
   - [pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)
+  - [pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)
 
 ## 基础库
 
@@ -84,7 +85,6 @@
 + [pi_slot_deque](https://github.com/GaiaWorld/pi_slot_deque)
 + [pi_slot_wheel](https://github.com/GaiaWorld/pi_slot_wheel)
 + [pi_static_map](https://github.com/GaiaWorld/pi_static_map)
-+ [pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)
 + [pi_ucd](https://github.com/GaiaWorld/pi_ucd)
 + [pi_util](https://github.com/GaiaWorld/pi_util)
 + [pi_weight](https://github.com/GaiaWorld/pi_weight)
