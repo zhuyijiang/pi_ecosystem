@@ -1,4 +1,4 @@
-# [pi 库 生态 说明](https://github.com/GaiaWorld/pi_ecosystem)
+# [pi库 生态](https://github.com/GaiaWorld/pi_ecosystem)
 
 ## 领域库
 
