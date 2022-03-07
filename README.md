@@ -1,18 +1,22 @@
-# pi 库 生态 说明
+# [pi 库 生态 说明](https://github.com/GaiaWorld/pi_ecosystem)
 
 ## 领域库
 
-+ [pi_ecosystem](https://github.com/GaiaWorld/pi_ecosystem) 生态 说明 文档
+#### 客户端
+
 + [pi_ecs](https://github.com/GaiaWorld/pi_ecs)
 + [pi_math](https://github.com/GaiaWorld/pi_math)
 + [pi_show](https://github.com/GaiaWorld/pi_show)
 + [pi_render](https://github.com/GaiaWorld/pi_render)
++ [pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)
+
+#### 服务器端
+
++ [pi_crypto](https://github.com/GaiaWorld/pi_crypto)
++ [pi_vm](https://github.com/GaiaWorld/pi_vm)
 + [pi_store](https://github.com/GaiaWorld/pi_store)
 + [pi_db](https://github.com/GaiaWorld/pi_db) 
 + [pi_net](https://github.com/GaiaWorld/pi_net)
-+ [pi_crypto](https://github.com/GaiaWorld/pi_crypto)
-+ [pi_vm](https://github.com/GaiaWorld/pi_vm)
-+ [pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)
 
 ## 不再维护的 crates
 
