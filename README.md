@@ -5,7 +5,7 @@
 + 所有的 crates.io 的 crate 都必须有一个 github 账号 作为 owner
 + 用 GaiaWorld 的 成员 账号 登录 crates.io 生成 token
 + 本地命令行 cargo login token
-+ 为项目 加入 dev-团队 作为 owner，以便于 别人也可以推送 本 crate
++ 为项目 加入 dev-团队 作为 owner，以便于 可以在一个组内看到所有的crates
     - cargo owner --add github:GaiaWorld:dev
 + cargo publish
 
