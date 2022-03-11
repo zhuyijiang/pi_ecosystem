@@ -11,15 +11,15 @@
 
 ## 领域库
 
-#### 客户端
+### 前端领域
 
 + [pi_ecs](https://github.com/GaiaWorld/pi_ecs)
-+ [pi_math](https://github.com/GaiaWorld/pi_math)
 + [pi_show](https://github.com/GaiaWorld/pi_show)
++ [pi_math](https://github.com/GaiaWorld/pi_math)
 + [pi_render](https://github.com/GaiaWorld/pi_render)
 + [pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)
 
-#### 服务器端
+### 服务器端
 
 + [pi_crypto](https://github.com/GaiaWorld/pi_crypto)
 + [pi_vm](https://github.com/GaiaWorld/pi_vm)
