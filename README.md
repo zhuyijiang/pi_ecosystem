@@ -54,7 +54,25 @@
 
 ## 基础库
 
-#### 正在用
+#### 服务器 相关
+
++ [pi_apm](https://github.com/GaiaWorld/pi_apm)
++ [pi_async](https://github.com/GaiaWorld/pi_async)
++ [pi_async_file](https://github.com/GaiaWorld/pi_async_file)
++ [pi_async_macro](https://github.com/GaiaWorld/pi_async_macro)
++ [pi_future](https://github.com/GaiaWorld/pi_future)
++ [pi_gray](https://github.com/GaiaWorld/pi_gray)
++ [pi_guid](https://github.com/GaiaWorld/pi_guid)
++ [pi_guid64](https://github.com/GaiaWorld/pi_guid64)
++ [pi_handler](https://github.com/GaiaWorld/pi_handler)
++ [pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)
++ [pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)
++ [pi_lfstack](https://github.com/GaiaWorld/pi_lfstack)
++ [pi_time](https://github.com/GaiaWorld/pi_time)
++ [pi_timer](https://github.com/GaiaWorld/pi_timer)
++ [pi_worker](https://github.com/GaiaWorld/pi_worker)
+
+#### 杂项
 
 + [pi_ordmap](https://github.com/GaiaWorld/pi_ordmap)
 + [pi_any](https://github.com/GaiaWorld/pi_any)
@@ -101,24 +119,6 @@
 + [pi_wheel](https://github.com/GaiaWorld/pi_wheel)
 + [pi_wtree](https://github.com/GaiaWorld/pi_wtree)
 + [pi_wy_rng](https://github.com/GaiaWorld/pi_wy_rng)
-
-#### 服务器 相关
-
-+ [pi_apm](https://github.com/GaiaWorld/pi_apm)
-+ [pi_async](https://github.com/GaiaWorld/pi_async)
-+ [pi_async_file](https://github.com/GaiaWorld/pi_async_file)
-+ [pi_async_macro](https://github.com/GaiaWorld/pi_async_macro)
-+ [pi_future](https://github.com/GaiaWorld/pi_future)
-+ [pi_gray](https://github.com/GaiaWorld/pi_gray)
-+ [pi_guid](https://github.com/GaiaWorld/pi_guid)
-+ [pi_guid64](https://github.com/GaiaWorld/pi_guid64)
-+ [pi_handler](https://github.com/GaiaWorld/pi_handler)
-+ [pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)
-+ [pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)
-+ [pi_lfstack](https://github.com/GaiaWorld/pi_lfstack)
-+ [pi_time](https://github.com/GaiaWorld/pi_time)
-+ [pi_timer](https://github.com/GaiaWorld/pi_timer)
-+ [pi_worker](https://github.com/GaiaWorld/pi_worker)
 
 ## 附录：内部项目 【内网 GitLab 中】
 
