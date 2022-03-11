@@ -65,16 +65,19 @@
     - [pi_guid64](https://github.com/GaiaWorld/pi_guid64)
     - [pi_compress](https://github.com/GaiaWorld/pi_compress)
 + vmos / zuon
-    - [pi_apm](https://github.com/GaiaWorld/pi_apm)
-    - [pi_async](https://github.com/GaiaWorld/pi_async)
-    - [pi_async_file](https://github.com/GaiaWorld/pi_async_file)
-    - [pi_async_macro](https://github.com/GaiaWorld/pi_async_macro)
-    - [pi_future](https://github.com/GaiaWorld/pi_future)
-    - [pi_handler](https://github.com/GaiaWorld/pi_handler)
-    - [pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)
-    - [pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)
-    - [pi_lfstack](https://github.com/GaiaWorld/pi_lfstack)
-    - [pi_worker](https://github.com/GaiaWorld/pi_worker)
+    - 开源：目前在用的
+        * [pi_async](https://github.com/GaiaWorld/pi_async)
+        * [pi_async_file](https://github.com/GaiaWorld/pi_async_file)
+        * [pi_async_macro](https://github.com/GaiaWorld/pi_async_macro)
+        * [pi_lfstack](https://github.com/GaiaWorld/pi_lfstack)
+    - 不开源的，不会推到 crates.io
+        * [pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)
+        * [pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)
+    - 没人用的，不会推到 crates.io
+        * [pi_apm](https://github.com/GaiaWorld/pi_apm)
+        * [pi_future](https://github.com/GaiaWorld/pi_future)
+        * [pi_handler](https://github.com/GaiaWorld/pi_handler)
+        * [pi_worker](https://github.com/GaiaWorld/pi_worker)
 + moyy
     - [pi_graph](https://github.com/GaiaWorld/pi_graph)
     - [pi_async_graph](https://github.com/GaiaWorld/pi_async_graph)
