@@ -86,7 +86,6 @@
     + [pi_base58](https://github.com/GaiaWorld/pi_base58)
     + [pi_bon](https://github.com/GaiaWorld/pi_bon)
     + [pi_cancel_timer](https://github.com/GaiaWorld/pi_cancel_timer)
-    + [pi_compress](https://github.com/GaiaWorld/pi_compress)
     + [pi_cowlist](https://github.com/GaiaWorld/pi_cowlist)
     + [pi_cross_performance](https://github.com/GaiaWorld/pi_cross_performance)
     + [pi_debug_info](https://github.com/GaiaWorld/pi_debug_info)
