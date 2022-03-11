@@ -64,7 +64,7 @@
     - [pi_guid](https://github.com/GaiaWorld/pi_guid)
     - [pi_guid64](https://github.com/GaiaWorld/pi_guid64)
     - [pi_compress](https://github.com/GaiaWorld/pi_compress)
-+ zuon
++ vmos / zuon
     - [pi_apm](https://github.com/GaiaWorld/pi_apm)
     - [pi_async](https://github.com/GaiaWorld/pi_async)
     - [pi_async_file](https://github.com/GaiaWorld/pi_async_file)
