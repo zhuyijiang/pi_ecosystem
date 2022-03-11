@@ -46,8 +46,6 @@
   - [pi_slab_old](https://github.com/GaiaWorld/pi_slab_old)
   - [pi_flex_layout_old](https://github.com/GaiaWorld/pi_flex_layout_old)
   - [pi_bincode](https://github.com/GaiaWorld/pi_bincode)
-  - [pi_densevec](https://github.com/GaiaWorld/pi_densevec)
-  - [pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)
   - [pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)
   - [pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)
   - [pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)
@@ -74,6 +72,8 @@
 
 #### 杂项
 
++ `TODO` [pi_densevec](https://github.com/GaiaWorld/pi_densevec)
++ `TODO` [pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)
 + [pi_ordmap](https://github.com/GaiaWorld/pi_ordmap)
 + [pi_any](https://github.com/GaiaWorld/pi_any)
 + [pi_async_graph](https://github.com/GaiaWorld/pi_async_graph)
