@@ -86,28 +86,28 @@
 
 ## 计划不维护
 
-|链接|维护者|概述|说明|
-|--|--|--|--|
-|[pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)|zuon||之后不开源，没推到 crates.io|
-|[pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)|zuon||之后不开源，没推到 crates.io|
-|[pi_apm](https://github.com/GaiaWorld/pi_apm)|zuon||没人使用，没推到 crates.io|
-|[pi_future](https://github.com/GaiaWorld/pi_future)|zuon||没人使用，没推到 crates.io|
-|[pi_handler](https://github.com/GaiaWorld/pi_handler)|zuon||没人使用，没推到 crates.io|
-|[pi_worker](https://github.com/GaiaWorld/pi_worker)|zuon||没人使用，没推到 crates.io|
-|[pi_adler32](https://github.com/GaiaWorld/pi_adler32)|wzjsun(suncy)||不维护|
-|[pi_bincode](https://github.com/GaiaWorld/pi_bincode)|wzjsun(suncy)||不维护|
-|[pi_data_view](https://github.com/GaiaWorld/pi_data_view)|wzjsun(suncy)||不维护|
+|链接|维护者|说明|
+|--|--|--|
+|[pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)|zuon|之后不开源，没推到 crates.io|
+|[pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)|zuon|之后不开源，没推到 crates.io|
+|[pi_apm](https://github.com/GaiaWorld/pi_apm)|zuon|没人使用，没推到 crates.io|
+|[pi_future](https://github.com/GaiaWorld/pi_future)|zuon|没人使用，没推到 crates.io|
+|[pi_handler](https://github.com/GaiaWorld/pi_handler)|zuon|没人使用，没推到 crates.io|
+|[pi_worker](https://github.com/GaiaWorld/pi_worker)|zuon|没人使用，没推到 crates.io|
+|[pi_adler32](https://github.com/GaiaWorld/pi_adler32)|wzjsun(suncy)|不维护|
+|[pi_bincode](https://github.com/GaiaWorld/pi_bincode)|wzjsun(suncy)|不维护|
+|[pi_data_view](https://github.com/GaiaWorld/pi_data_view)|wzjsun(suncy)|不维护|
 |[pi_ecs_derive_old](https://github.com/GaiaWorld/pi_ecs_derive_old)|wzjsun(suncy)|暂时维护，pi_show还在使用|
 |[pi_ecs_old](https://github.com/GaiaWorld/pi_ecs_old)|wzjsun(suncy)|暂时维护，pi_show还在使用|
 |[pi_flex_layout_old](https://github.com/GaiaWorld/pi_flex_layout_old)|wzjsun(suncy)|暂时维护，pi_show 还在使用|
-|[pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)|废弃||不维护，没推到 crates.io|
-|[pi_idtree_old](https://github.com/GaiaWorld/pi_idtree_old)|废弃||不维护，没推到 crates.io|
-|[pi_map_old](https://github.com/GaiaWorld/pi_map_old)|废弃||不维护，没推到 crates.io|
-|[pi_slab_old](https://github.com/GaiaWorld/pi_slab_old)|废弃||不维护，没推到 crates.io|
-|[pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)|废弃||不维护，没推到 crates.io|
-|[pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)|废弃||不维护，没推到 crates.io|
-|[pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)|废弃||不维护，没推到 crates.io|
-|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃||||
+|[pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)|废弃|不维护，没推到 crates.io|
+|[pi_idtree_old](https://github.com/GaiaWorld/pi_idtree_old)|废弃|不维护，没推到 crates.io|
+|[pi_map_old](https://github.com/GaiaWorld/pi_map_old)|废弃|不维护，没推到 crates.io|
+|[pi_slab_old](https://github.com/GaiaWorld/pi_slab_old)|废弃|不维护，没推到 crates.io|
+|[pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)|废弃|不维护，没推到 crates.io|
+|[pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)|废弃|不维护，没推到 crates.io|
+|[pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)|废弃|不维护，没推到 crates.io|
+|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃||
 |[pi_sys](https://github.com/GaiaWorld/pi_sys)|废弃||
 |[pi_p2p](https://github.com/GaiaWorld/pi_p2p)|废弃||
 |[pi_base](https://github.com/GaiaWorld/pi_base)|废弃||
