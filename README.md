@@ -146,9 +146,7 @@
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[babylon](http://192.168.31.241:10082/tech/babylon)|baip|对 Babylon 官网的 Clone 和 修改|js项目|
 |[pi_babylon](http://192.168.31.241:10082/tech/pi_babylon)|baip||js项目|
-|[pi_babylon_demo](http://192.168.31.241:10082/tech/pi_babylon_demo)|baip|pi_babylon 和 Babylon 的 Demo|js项目|
 |[pi_spine](http://192.168.31.241:10082/tech/pi_spine)|baip||js项目|
 |[pi_animation](http://192.168.31.241:10082/tech/pi_animation)|baip|动画模块|js项目|
 |[pi_animation_rust](http://192.168.31.241:10082/tech/pi_animation_rust)|baip|动画模块|rust项目|
@@ -164,3 +162,9 @@
 |[pi_android](http://192.168.31.241:10082/tech/pi_android)|moyy||Java项目|
 |[pi_ios](http://192.168.31.241:10082/tech/pi_ios)|moyy||Swift项目|
 |[freetype_sys](http://192.168.31.241:10082/tech/freetype_sys)|zhuy|网上对应库的维护，C代码的Rust绑定|从官网的2.6.5升级到2.10.4 & 添加了更多的Rust接口||
+|[surfman](http://192.168.31.241:10082/tech/surfman)|zhuy|网上对应库的维护，跨平台的egl 绑定|android 添加 swappy，添加ios eagl 绑定||
+|[winit](http://192.168.31.241:10082/tech/winit)|zhuy|网上对应库的维护，跨平台的窗口和事件提供|android 添加虚拟键盘唤起和隐藏； exe添加自定义光标，ios适配数据缓存，绕过某些接口必须在主线程上调用||
+|[font_kit](http://192.168.31.241:10082/tech/font_kit)|zhuy||freetype_sys 的 canvas2d 封装|
+|[minstant](http://192.168.31.241:10082/tech/minstant)|zhuy||适配ios无法编译问题|
+|[rodio](http://192.168.31.241:10082/tech/rodio)|zhuy||适配 android 播放切换问题|
+|[rust-crypto](http://192.168.31.241:10082/tech/rust-crypto)|zhuy||适配ios无法编译链接问题|
