@@ -40,6 +40,8 @@
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
+|[pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)|zuon|之后不开源，没推到 crates.io|
+|[pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)|zuon|之后不开源，没推到 crates.io|
 |[pi_graph](https://github.com/GaiaWorld/pi_graph)|moyy||
 |[pi_async_graph](https://github.com/GaiaWorld/pi_async_graph)|moyy||
 |[pi_densevec](https://github.com/GaiaWorld/pi_densevec)|wzjsun(suncy)|||
@@ -88,8 +90,6 @@
 
 |链接|维护者|说明|
 |--|--|--|
-|[pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)|zuon|之后不开源，没推到 crates.io|
-|[pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)|zuon|之后不开源，没推到 crates.io|
 |[pi_apm](https://github.com/GaiaWorld/pi_apm)|zuon|没人使用，没推到 crates.io|
 |[pi_future](https://github.com/GaiaWorld/pi_future)|zuon|没人使用，没推到 crates.io|
 |[pi_handler](https://github.com/GaiaWorld/pi_handler)|zuon|没人使用，没推到 crates.io|
