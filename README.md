@@ -106,14 +106,14 @@
 |[pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)|不维护|没推到 crates.io|
 |[pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)|不维护|没推到 crates.io|
 |[pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)|不维护|没推到 crates.io|
-|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃||js项目|
-|[pi_sys](https://github.com/GaiaWorld/pi_sys)|废弃||js项目|
-|[pi_p2p](https://github.com/GaiaWorld/pi_p2p)|废弃||rust项目|
-|[pi_base](https://github.com/GaiaWorld/pi_base)|废弃||js项目|
-|[pi_front](https://github.com/GaiaWorld/pi_front)|废弃||js项目|
-|[pi_tools](https://github.com/GaiaWorld/pi_tools)|废弃||js项目|
-|[pi_serv](https://github.com/GaiaWorld/pi_serv)|废弃||rust项目，已经移到 Github|
-|[pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)|废弃||js项目|
+|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃|js项目|
+|[pi_sys](https://github.com/GaiaWorld/pi_sys)|废弃|js项目|
+|[pi_p2p](https://github.com/GaiaWorld/pi_p2p)|废弃|rust项目|
+|[pi_base](https://github.com/GaiaWorld/pi_base)|废弃|js项目|
+|[pi_front](https://github.com/GaiaWorld/pi_front)|废弃|js项目|
+|[pi_tools](https://github.com/GaiaWorld/pi_tools)|废弃|js项目|
+|[pi_serv](https://github.com/GaiaWorld/pi_serv)|废弃|rust项目，已经移到 Github|
+|[pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)|废弃|js项目|
 
 ## 附录：内网 GitLab 项目，不会 发布到 npm 或 crates.io
 
@@ -121,43 +121,43 @@
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_demo](http://192.168.31.241:10082/tech/pi_demo)|yuq||js|
-|[pi_build](http://192.168.31.241:10082/tech/pi_build)|yuq||js|
-|[pi_sys](http://192.168.31.241:10082/tech/pi_sys)|yuq||js|
-|[pi_utils](http://192.168.31.241:10082/tech/pi_utils)|yuq / limh||js|
-|[pi_commom](http://192.168.31.241:10082/tech/pi_common)|yuq / limh||js|
-|[pi_pt](http://192.168.31.241:10082/tech/pi_pt)|luob||js|
+|[pi_demo](http://192.168.31.241:10082/tech/pi_demo)|yuq||js项目|
+|[pi_build](http://192.168.31.241:10082/tech/pi_build)|yuq||js项目|
+|[pi_sys](http://192.168.31.241:10082/tech/pi_sys)|yuq||js项目|
+|[pi_utils](http://192.168.31.241:10082/tech/pi_utils)|yuq / limh||js项目|
+|[pi_commom](http://192.168.31.241:10082/tech/pi_common)|yuq / limh||js项目|
+|[pi_pt](http://192.168.31.241:10082/tech/pi_pt)|luob||js项目|
 
 #### 服务器端
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_logger](http://192.168.31.241:10082/tech//pi_logger)|luob||rust|
-|[pi_v8](http://192.168.31.241:10082/tech/pi_v8)|zuon||rust|
-|[pi_serv](http://192.168.31.241:10082/tech/pi_serv)|zuon||rust|
-|[pi_serv_lib](http://192.168.31.241:10082/tech/pi_serv_lib)|zuon||rust|
-|[pi_serv_builtin](http://192.168.31.241:10082/tech/pi_serv_builtin)|zuon||rust|
-|[pi_serv_ext](http://192.168.31.241:10082/tech/pi_serv_ext)|zuon||rust|
-|[pi_core](http://192.168.31.241:10082/tech/pi_core)|zuon||rust|
-|[pi_core_lib](http://192.168.31.241:10082/tech/pi_core_lib)|zuon||rust|
-|[pi_core_builtin](http://192.168.31.241:10082/tech/pi_core_builtin)|zuon||rust|
+|[pi_logger](http://192.168.31.241:10082/tech//pi_logger)|luob||rust项目|
+|[pi_v8](http://192.168.31.241:10082/tech/pi_v8)|zuon||rust项目|
+|[pi_serv](http://192.168.31.241:10082/tech/pi_serv)|zuon||rust项目|
+|[pi_serv_lib](http://192.168.31.241:10082/tech/pi_serv_lib)|zuon||rust项目|
+|[pi_serv_builtin](http://192.168.31.241:10082/tech/pi_serv_builtin)|zuon||rust项目|
+|[pi_serv_ext](http://192.168.31.241:10082/tech/pi_serv_ext)|zuon||rust项目|
+|[pi_core](http://192.168.31.241:10082/tech/pi_core)|zuon||rust项目|
+|[pi_core_lib](http://192.168.31.241:10082/tech/pi_core_lib)|zuon||rust项目|
+|[pi_core_builtin](http://192.168.31.241:10082/tech/pi_core_builtin)|zuon||rust项目|
 
 #### 渲染 & 游戏底层
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_babylon](http://192.168.31.241:10082/tech/pi_babylon)|baip||js|
-|[pi_spine](http://192.168.31.241:10082/tech/pi_spine)|baip||js|
-|[pi_animation](http://192.168.31.241:10082/tech/pi_animation)|baip||js|
-|[pi_ai](http://192.168.31.241:10082/tech/pi_ai)|baip||rust|
-|[pi_animation_rust](http://192.168.31.241:10082/tech/pi_animation_rust)|baip||rust|
+|[pi_babylon](http://192.168.31.241:10082/tech/pi_babylon)|baip||js项目|
+|[pi_spine](http://192.168.31.241:10082/tech/pi_spine)|baip||js项目|
+|[pi_animation](http://192.168.31.241:10082/tech/pi_animation)|baip||js项目|
+|[pi_ai](http://192.168.31.241:10082/tech/pi_ai)|baip||rust项目|
+|[pi_animation_rust](http://192.168.31.241:10082/tech/pi_animation_rust)|baip||rust项目|
 
 #### 平台：Android & iOS & Windows
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_packer](http://192.168.31.241:10082/tech/pi_packer)|yuq||js|
-|[pi_app](http://192.168.31.241:10082/tech/pi_core_app)|zhuy||rust|
-|[app_start](http://192.168.31.241:10082/tech/app_start)|zhuy||rust|
-|[pi_android](http://192.168.31.241:10082/tech/pi_android)|moyy||Java|
-|[pi_ios](http://192.168.31.241:10082/tech/pi_ios)|moyy||Swift|
+|[pi_packer](http://192.168.31.241:10082/tech/pi_packer)|yuq||js项目|
+|[pi_app](http://192.168.31.241:10082/tech/pi_core_app)|zhuy||rust项目|
+|[app_start](http://192.168.31.241:10082/tech/app_start)|zhuy||rust项目|
+|[pi_android](http://192.168.31.241:10082/tech/pi_android)|moyy||Java项目|
+|[pi_ios](http://192.168.31.241:10082/tech/pi_ios)|moyy||Swift项目|
