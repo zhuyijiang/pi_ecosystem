@@ -6,62 +6,62 @@
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_ecs](https://github.com/GaiaWorld/pi_ecs)|wzjsun(suncy)|||
-|[pi_render](https://github.com/GaiaWorld/pi_render)|moyy||没推到 crates.io|
-|[pi_show](https://github.com/GaiaWorld/pi_show)|wzjsun(suncy)||没推到 crates.io|
-|[pi_math](https://github.com/GaiaWorld/pi_math)|wzjsun(suncy)|没推到 crates.io|
+|[pi_ecs](https://github.com/GaiaWorld/pi_ecs)|wzjsun(suncy)|ECS 框架||
+|[pi_render](https://github.com/GaiaWorld/pi_render)|moyy|新 渲染|没推到 crates.io|
+|[pi_show](https://github.com/GaiaWorld/pi_show)|wzjsun(suncy)|旧 GUI|没推到 crates.io|
+|[pi_math](https://github.com/GaiaWorld/pi_math)|wzjsun(suncy)|四叉树，八叉树，AABB，OOB 等|没推到 crates.io|
 
 ### 后端相关
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_crypto](https://github.com/GaiaWorld/pi_crypto)|zuon||没推到 crates.io|
+|[pi_crypto](https://github.com/GaiaWorld/pi_crypto)|zuon|加密解密 & 数据签名|没推到 crates.io|
 |[pi_vm](https://github.com/GaiaWorld/pi_vm)|zuon||没推到 crates.io|
-|[pi_store](https://github.com/GaiaWorld/pi_store)|zuon||没推到 crates.io|
-|[pi_db](https://github.com/GaiaWorld/pi_db)|zuon||没推到 crates.io|
-|[pi_net](https://github.com/GaiaWorld/pi_net)|zuon||没推到 crates.io|
+|[pi_store](https://github.com/GaiaWorld/pi_store)|zuon|数据存储|没推到 crates.io|
+|[pi_db](https://github.com/GaiaWorld/pi_db)|zuon|数据库|没推到 crates.io|
+|[pi_net](https://github.com/GaiaWorld/pi_net)|zuon|网络 `mqtt` & `rpc` & `httpc`|没推到 crates.io|
 |[pi_async](https://github.com/GaiaWorld/pi_async)|zuon|||
 |[pi_async_file](https://github.com/GaiaWorld/pi_async_file)|zuon|||
 |[pi_async_macro](https://github.com/GaiaWorld/pi_async_macro)|zuon|||
 |[pi_lfstack](https://github.com/GaiaWorld/pi_lfstack)|zuon|||
 |[pi_time](https://github.com/GaiaWorld/pi_time)|luob|||
 |[pi_gray](https://github.com/GaiaWorld/pi_gray)|luob|||
-|[pi_guid](https://github.com/GaiaWorld/pi_guid)|luob|||
-|[pi_guid64](https://github.com/GaiaWorld/pi_guid64)|luob|||
-|[pi_compress](https://github.com/GaiaWorld/pi_compress)|luob|||
-|[pi_timer](https://github.com/GaiaWorld/pi_timer)|baip||
+|[pi_guid](https://github.com/GaiaWorld/pi_guid)|luob|基于时间的全局唯一id||
+|[pi_guid64](https://github.com/GaiaWorld/pi_guid64)|luob|基于时间的全局唯一id||
+|[pi_compress](https://github.com/GaiaWorld/pi_compress)|luob|封装各种压缩库|目前只封装了：`lz4`|
+|[pi_timer](https://github.com/GaiaWorld/pi_timer)|baip|基于wheel的定时轮 实现的 定时器||
 |[pi_rt_file](https://github.com/GaiaWorld/pi_rt_file)|zhuyijiang(zhuy)||
 |[pi_rt_store](https://github.com/GaiaWorld/pi_rt_store)|zhuyijiang(zhuy)||
 |[pi_file](https://github.com/GaiaWorld/pi_file)|zhuyijiang(zhuy)||
-|[pi_weight_task](https://github.com/GaiaWorld/pi_weight_task)|zhuyijiang(zhuy)||
+|[pi_weight_task](https://github.com/GaiaWorld/pi_weight_task)|zhuyijiang(zhuy)|任务池||
 
 ## 基础库
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)|zuon||之后不开源，没推到 crates.io|
-|[pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)|zuon||之后不开源，没推到 crates.io|
+|[pi_js_proxy_gen](https://github.com/GaiaWorld/pi_js_proxy_gen)|zuon|rust和js的自动生成代码库|之后不开源，没推到 crates.io|
+|[pi_js_proxy_gen_macro](https://github.com/GaiaWorld/pi_js_proxy_gen_macro)|zuon|rust和js的自动生成代码库|之后不开源，没推到 crates.io|
 |[pi_graph](https://github.com/GaiaWorld/pi_graph)|moyy||
 |[pi_async_graph](https://github.com/GaiaWorld/pi_async_graph)|moyy||
-|[pi_densevec](https://github.com/GaiaWorld/pi_densevec)|wzjsun(suncy)|||
+|[pi_densevec](https://github.com/GaiaWorld/pi_densevec)|wzjsun(suncy)|管理slab分配id的数据结构，当id稀疏时候使用|配套 slab一起使用|
 |[pi_ordmap](https://github.com/GaiaWorld/pi_ordmap)|wzjsun(suncy)|||
-|[pi_any](https://github.com/GaiaWorld/pi_any)|wzjsun(suncy)|||
-|[pi_atom](https://github.com/GaiaWorld/pi_atom)|wzjsun(suncy)|||
+|[pi_any](https://github.com/GaiaWorld/pi_any)|wzjsun(suncy)|Trait Object的向下造型|当参数是多态，但是某种场景有需要具体类型的时候|
+|[pi_atom](https://github.com/GaiaWorld/pi_atom)|wzjsun(suncy)|字符串原子|有很多相同字符串拷来拷去，比如CSS和语言关键字|
 |[pi_base58](https://github.com/GaiaWorld/pi_base58)|wzjsun(suncy)|||
 |[pi_bon](https://github.com/GaiaWorld/pi_bon)|wzjsun(suncy)|||
 |[pi_cancel_timer](https://github.com/GaiaWorld/pi_cancel_timer)|wzjsun(suncy)|||
 |[pi_cowlist](https://github.com/GaiaWorld/pi_cowlist)|wzjsun(suncy)|||
 |[pi_cross_performance](https://github.com/GaiaWorld/pi_cross_performance)|wzjsun(suncy)|||
 |[pi_debug_info](https://github.com/GaiaWorld/pi_debug_info)|wzjsun(suncy)|||
-|[pi_deque](https://github.com/GaiaWorld/pi_deque)|wzjsun(suncy)|||
-|[pi_dirty](https://github.com/GaiaWorld/pi_dirty)|wzjsun(suncy)|||
-|[pi_dyn_uint](https://github.com/GaiaWorld/pi_dyn_uint)|wzjsun(suncy)|||
-|[pi_enum_default_macro](https://github.com/GaiaWorld/pi_enum_default_macro)|wzjsun(suncy)|||
+|[pi_deque](https://github.com/GaiaWorld/pi_deque)|wzjsun(suncy)|支持 从 中间 快速 插删 的 双端队列|如果不需要从中间插入和删除，可以考虑用`std`|
+|[pi_dirty](https://github.com/GaiaWorld/pi_dirty)|wzjsun(suncy)|可以设置脏，查询脏的容器||
+|[pi_dyn_uint](https://github.com/GaiaWorld/pi_dyn_uint)|wzjsun(suncy)|定义了一个分配id的工厂||
+|[pi_enum_default_macro](https://github.com/GaiaWorld/pi_enum_default_macro)|wzjsun(suncy)|为枚举定义了Default trait的宏||
 |[pi_ext_heap](https://github.com/GaiaWorld/pi_ext_heap)|wzjsun(suncy)|||
-|[pi_flex_layout](https://github.com/GaiaWorld/pi_flex_layout)|wzjsun(suncy)|||
-|[pi_hash](https://github.com/GaiaWorld/pi_hash)|wzjsun(suncy)|||
+|[pi_flex_layout](https://github.com/GaiaWorld/pi_flex_layout)|wzjsun(suncy)|GUI-Flex布局||
+|[pi_hash](https://github.com/GaiaWorld/pi_hash)|wzjsun(suncy)|Hash & 哈希表|内部实现已经封装了`std`的哈希表，并且内置高效的hash算法，并且做了x86和x64平台的开关|
 |[pi_hash_value](https://github.com/GaiaWorld/pi_hash_value)|wzjsun(suncy)|||
-|[pi_heap](https://github.com/GaiaWorld/pi_heap)|wzjsun(suncy)|||
+|[pi_heap](https://github.com/GaiaWorld/pi_heap)|wzjsun(suncy)|支持 删除 和 更新 的 二叉堆|如果没有 删除 和 更新操作，可以考虑用`std`|
 |[pi_idtree](https://github.com/GaiaWorld/pi_idtree)|wzjsun(suncy)|||
 |[pi_listener](https://github.com/GaiaWorld/pi_listener)|wzjsun(suncy)|||
 |[pi_local_timer](https://github.com/GaiaWorld/pi_local_timer)|wzjsun(suncy)|||
@@ -69,16 +69,16 @@
 |[pi_map](https://github.com/GaiaWorld/pi_map)|wzjsun(suncy)|||
 |[pi_null](https://github.com/GaiaWorld/pi_null)|wzjsun(suncy)|||
 |[pi_pointer](https://github.com/GaiaWorld/pi_pointer)|wzjsun(suncy)|||
-|[pi_res](https://github.com/GaiaWorld/pi_res)|wzjsun(suncy)|||
-|[pi_res_mgr](https://github.com/GaiaWorld/pi_res_mgr)|wzjsun(suncy)|||
+|[pi_res](https://github.com/GaiaWorld/pi_res)|wzjsun(suncy)|资源管理||
+|[pi_res_mgr](https://github.com/GaiaWorld/pi_res_mgr)|wzjsun(suncy)|同类型数据管理|需要自己管理空闲块 & 绕过rust引用|
 |[pi_rsync](https://github.com/GaiaWorld/pi_rsync)|wzjsun(suncy)|||
-|[pi_share](https://github.com/GaiaWorld/pi_share)|wzjsun(suncy)|||
+|[pi_share](https://github.com/GaiaWorld/pi_share)|wzjsun(suncy)|rc & arc 封装|需要统一封装场景：单线程 & 多线程|
 |[pi_sinfo](https://github.com/GaiaWorld/pi_sinfo)|wzjsun(suncy)|||
 |[pi_slab](https://github.com/GaiaWorld/pi_slab)|wzjsun(suncy)|||
 |[pi_slot_deque](https://github.com/GaiaWorld/pi_slot_deque)|wzjsun(suncy)|||
 |[pi_slot_wheel](https://github.com/GaiaWorld/pi_slot_wheel)|wzjsun(suncy)|||
 |[pi_static_map](https://github.com/GaiaWorld/pi_static_map)|wzjsun(suncy)|||
-|[pi_ucd](https://github.com/GaiaWorld/pi_ucd)|wzjsun(suncy)|||
+|[pi_ucd](https://github.com/GaiaWorld/pi_ucd)|wzjsun(suncy)|unicode快速查询的函数|比如可以查询某个point是不是中文
 |[pi_util](https://github.com/GaiaWorld/pi_util)|wzjsun(suncy)|||
 |[pi_weight](https://github.com/GaiaWorld/pi_weight)|wzjsun(suncy)|||
 |[pi_wheel](https://github.com/GaiaWorld/pi_wheel)|wzjsun(suncy)|||
@@ -148,9 +148,9 @@
 |--|--|--|--|
 |[pi_babylon](http://192.168.31.241:10082/tech/pi_babylon)|baip||js项目|
 |[pi_spine](http://192.168.31.241:10082/tech/pi_spine)|baip||js项目|
-|[pi_animation](http://192.168.31.241:10082/tech/pi_animation)|baip||js项目|
-|[pi_ai](http://192.168.31.241:10082/tech/pi_ai)|baip||rust项目|
-|[pi_animation_rust](http://192.168.31.241:10082/tech/pi_animation_rust)|baip||rust项目|
+|[pi_animation](http://192.168.31.241:10082/tech/pi_animation)|baip|动画模块|js项目|
+|[pi_animation_rust](http://192.168.31.241:10082/tech/pi_animation_rust)|baip|动画模块|rust项目|
+|[pi_ai](http://192.168.31.241:10082/tech/pi_ai)|baip|游戏AI逻辑，例如 寻路 等|rust项目|
 
 #### 平台：Android & iOS & Windows
 
@@ -161,56 +161,4 @@
 |[app_start](http://192.168.31.241:10082/tech/app_start)|zhuy||rust项目|
 |[pi_android](http://192.168.31.241:10082/tech/pi_android)|moyy||Java项目|
 |[pi_ios](http://192.168.31.241:10082/tech/pi_ios)|moyy||Swift项目|
-
-## TODO 待整理
-
-#### 数据结构 & 语言特性
-
-|库|主要功能|场景说明|
-|--|--|--|
-|slab|同类型数据管理|需要自己管理空闲块 & 绕过rust引用|
-|dense_vec|管理slab分配id的数据结构，当id稀疏时候使用|配套 slab一起使用|
-|vecmap|管理slab分配id的数据结构，用vec实现的map|配套 slab一起使用|
-|hash|Hash & 哈希表|内部实现已经封装了`std`的哈希表，并且内置高效的hash算法，并且做了x86和x64平台的开关|
-|atom|字符串原子|有很多相同字符串拷来拷去，比如CSS和语言关键字|
-|heap|支持 删除 和 更新 的 二叉堆|如果没有 删除 和 更新操作，可以考虑用`std`|
-|deque|支持 从 中间 快速 插删 的 双端队列|如果不需要从中间插入和删除，可以考虑用`std`|
-|share|rc & arc 封装|需要统一封装场景：单线程 & 多线程|
-|enum_default_macro |为枚举定义了Default trait的宏||
-|any|Trait Object的向下造型|当参数是多态，但是某种场景有需要具体类型的时候|
-|dirty|可以设置脏，查询脏的容器||
-
-#### 实用库
-
-|库|主要功能|场景说明|
-|--|--|--|
-|res|资源管理||
-|dyn_unit|定义了一个分配id的工厂||
-|ucd|unicode快速查询的函数|比如可以查询某个point是不是中文。|
-|guid，guid64|基于时间的全局唯一id||
-|task-pool|任务池||
-|timer|基于wheel的定时轮 实现的 定时器||
-|compress|封装各种压缩库|目前只封装了：`lz4`|
-
-#### 领域相关
-
-|库|主要功能|场景说明|
-|--|--|--|
-|ecs|ECS框架|**已过时**，请用 `pi_ecs`|
-|future & async|基于future的异步运行时||
-|js_proxy_gen，js_proxy_gen_macro|rust和js的自动生成代码库||
-|flex_layout| GUI-Flex布局||
-
-#### 我们的 其他库
-
-|库|主要功能|场景说明|
-|--|--|--|
-|freetype_sys|网上对应库的维护，C代码的Rust绑定|从官网的2.6.5升级到2.10.4 & 添加了更多的Rust接口|
-|pi_crypto|加密解密 & 数据签名||
-|pi_net|网络相关|`mqtt` & `rpc` & `httpc`|
-|pi_store|数据存储||
-|pi_db|数据库||
-|pi_animation|动画模块||
-|pi_ai|游戏AI逻辑||
-|pi_math|数学相关||
-
+|[freetype_sys](http://192.168.31.241:10082/tech/freetype_sys)|zhuy|网上对应库的维护，C代码的Rust绑定|从官网的2.6.5升级到2.10.4 & 添加了更多的Rust接口||
