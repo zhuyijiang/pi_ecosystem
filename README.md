@@ -10,7 +10,6 @@
 |[pi_render](https://github.com/GaiaWorld/pi_render)|moyy||没推到 crates.io|
 |[pi_show](https://github.com/GaiaWorld/pi_show)|wzjsun(suncy)||没推到 crates.io|
 |[pi_math](https://github.com/GaiaWorld/pi_math)|wzjsun(suncy)|没推到 crates.io|
-|[pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)|baip|||
 
 ### 后端相关
 
@@ -107,13 +106,14 @@
 |[pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)|不维护|没推到 crates.io|
 |[pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)|不维护|没推到 crates.io|
 |[pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)|不维护|没推到 crates.io|
-|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃||
-|[pi_sys](https://github.com/GaiaWorld/pi_sys)|废弃||
-|[pi_p2p](https://github.com/GaiaWorld/pi_p2p)|废弃||
-|[pi_base](https://github.com/GaiaWorld/pi_base)|废弃||
-|[pi_front](https://github.com/GaiaWorld/pi_front)|废弃||
-|[pi_tools](https://github.com/GaiaWorld/pi_tools)|废弃||
-|[pi_serv](https://github.com/GaiaWorld/pi_serv)|废弃||
+|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃||js项目|
+|[pi_sys](https://github.com/GaiaWorld/pi_sys)|废弃||js项目|
+|[pi_p2p](https://github.com/GaiaWorld/pi_p2p)|废弃||rust项目|
+|[pi_base](https://github.com/GaiaWorld/pi_base)|废弃||js项目|
+|[pi_front](https://github.com/GaiaWorld/pi_front)|废弃||js项目|
+|[pi_tools](https://github.com/GaiaWorld/pi_tools)|废弃||js项目|
+|[pi_serv](https://github.com/GaiaWorld/pi_serv)|废弃||rust项目，已经移到 Github|
+|[pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)|废弃||js项目|
 
 ## 附录：内网 GitLab 项目，不会 发布到 npm 或 crates.io
 
