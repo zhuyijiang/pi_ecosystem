@@ -146,7 +146,9 @@
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
+|[babylon](http://192.168.31.241:10082/tech/babylon)|baip|对 Babylon 官网的 Clone 和 修改|js项目|
 |[pi_babylon](http://192.168.31.241:10082/tech/pi_babylon)|baip||js项目|
+|[pi_babylon_demo](http://192.168.31.241:10082/tech/pi_babylon_demo)|baip|pi_babylon 和 Babylon 的 Demo|js项目|
 |[pi_spine](http://192.168.31.241:10082/tech/pi_spine)|baip||js项目|
 |[pi_animation](http://192.168.31.241:10082/tech/pi_animation)|baip|动画模块|js项目|
 |[pi_animation_rust](http://192.168.31.241:10082/tech/pi_animation_rust)|baip|动画模块|rust项目|
