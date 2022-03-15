@@ -161,3 +161,56 @@
 |[app_start](http://192.168.31.241:10082/tech/app_start)|zhuy||rust项目|
 |[pi_android](http://192.168.31.241:10082/tech/pi_android)|moyy||Java项目|
 |[pi_ios](http://192.168.31.241:10082/tech/pi_ios)|moyy||Swift项目|
+
+## TODO 待整理
+
+#### 数据结构 & 语言特性
+
+|库|主要功能|场景说明|
+|--|--|--|
+|slab|同类型数据管理|需要自己管理空闲块 & 绕过rust引用|
+|dense_vec|管理slab分配id的数据结构，当id稀疏时候使用|配套 slab一起使用|
+|vecmap|管理slab分配id的数据结构，用vec实现的map|配套 slab一起使用|
+|hash|Hash & 哈希表|内部实现已经封装了`std`的哈希表，并且内置高效的hash算法，并且做了x86和x64平台的开关|
+|atom|字符串原子|有很多相同字符串拷来拷去，比如CSS和语言关键字|
+|heap|支持 删除 和 更新 的 二叉堆|如果没有 删除 和 更新操作，可以考虑用`std`|
+|deque|支持 从 中间 快速 插删 的 双端队列|如果不需要从中间插入和删除，可以考虑用`std`|
+|share|rc & arc 封装|需要统一封装场景：单线程 & 多线程|
+|enum_default_macro |为枚举定义了Default trait的宏||
+|any|Trait Object的向下造型|当参数是多态，但是某种场景有需要具体类型的时候|
+|dirty|可以设置脏，查询脏的容器||
+
+#### 实用库
+
+|库|主要功能|场景说明|
+|--|--|--|
+|res|资源管理||
+|dyn_unit|定义了一个分配id的工厂||
+|ucd|unicode快速查询的函数|比如可以查询某个point是不是中文。|
+|guid，guid64|基于时间的全局唯一id||
+|task-pool|任务池||
+|timer|基于wheel的定时轮 实现的 定时器||
+|compress|封装各种压缩库|目前只封装了：`lz4`|
+
+#### 领域相关
+
+|库|主要功能|场景说明|
+|--|--|--|
+|ecs|ECS框架|**已过时**，请用 `pi_ecs`|
+|future & async|基于future的异步运行时||
+|js_proxy_gen，js_proxy_gen_macro|rust和js的自动生成代码库||
+|flex_layout| GUI-Flex布局||
+
+#### 我们的 其他库
+
+|库|主要功能|场景说明|
+|--|--|--|
+|freetype_sys|网上对应库的维护，C代码的Rust绑定|从官网的2.6.5升级到2.10.4 & 添加了更多的Rust接口|
+|pi_crypto|加密解密 & 数据签名||
+|pi_net|网络相关|`mqtt` & `rpc` & `httpc`|
+|pi_store|数据存储||
+|pi_db|数据库||
+|pi_animation|动画模块||
+|pi_ai|游戏AI逻辑||
+|pi_math|数学相关||
+
