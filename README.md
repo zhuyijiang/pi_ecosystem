@@ -103,11 +103,11 @@
 |[pi_hashmap](https://github.com/GaiaWorld/pi_hashmap)|废弃||不维护，没推到 crates.io|
 |[pi_idtree_old](https://github.com/GaiaWorld/pi_idtree_old)|废弃||不维护，没推到 crates.io|
 |[pi_map_old](https://github.com/GaiaWorld/pi_map_old)|废弃||不维护，没推到 crates.io|
-|[pi_slab_old](https://github.com/GaiaWorld/pi_slab_old)|废弃|不维护，没推到 crates.io|
+|[pi_slab_old](https://github.com/GaiaWorld/pi_slab_old)|废弃||不维护，没推到 crates.io|
 |[pi_fx_hashmap](https://github.com/GaiaWorld/pi_fx_hashmap)|废弃||不维护，没推到 crates.io|
 |[pi_wy_hash](https://github.com/GaiaWorld/pi_wy_hash)|废弃||不维护，没推到 crates.io|
 |[pi_task_pool](https://github.com/GaiaWorld/pi_task_pool)|废弃||不维护，没推到 crates.io|
-|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃|wzjsun(suncy)|||
+|[pi_lib](https://github.com/GaiaWorld/pi_lib)|废弃||||
 |[pi_sys](https://github.com/GaiaWorld/pi_sys)|废弃||
 |[pi_p2p](https://github.com/GaiaWorld/pi_p2p)|废弃||
 |[pi_base](https://github.com/GaiaWorld/pi_base)|废弃||
