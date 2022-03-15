@@ -2,25 +2,25 @@
 
 ## [crates.io 的 pi库](https://crates.io/teams/github:gaiaworld:dev)
 
-### 前端领域
+### 前端相关
 
-|链接|维护者|概述|
-|--|--|--|
-|[pi_ecs](https://github.com/GaiaWorld/pi_ecs)|wzjsun(suncy)||
-|[pi_show](https://github.com/GaiaWorld/pi_show)|wzjsun(suncy)||
-|[pi_math](https://github.com/GaiaWorld/pi_math)|wzjsun(suncy)||
-|[pi_render](https://github.com/GaiaWorld/pi_render)|moyy||
-|[pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)|baip||
+|链接|维护者|概述|说明|
+|--|--|--|--|
+|[pi_ecs](https://github.com/GaiaWorld/pi_ecs)|wzjsun(suncy)|||
+|[pi_render](https://github.com/GaiaWorld/pi_render)|moyy||没推到 crates.io|
+|[pi_show](https://github.com/GaiaWorld/pi_show)|wzjsun(suncy)||没推到 crates.io|
+|[pi_math](https://github.com/GaiaWorld/pi_math)|wzjsun(suncy)|没推到 crates.io|
+|[pi_msdf_tool](https://github.com/GaiaWorld/pi_msdf_tool)|baip|||
 
 ### 后端相关
 
 |链接|维护者|概述|说明|
 |--|--|--|--|
-|[pi_crypto](https://github.com/GaiaWorld/pi_crypto)|zuon|||
-|[pi_vm](https://github.com/GaiaWorld/pi_vm)|zuon|||
-|[pi_store](https://github.com/GaiaWorld/pi_store)|zuon|||
-|[pi_db](https://github.com/GaiaWorld/pi_db)|zuon|||
-|[pi_net](https://github.com/GaiaWorld/pi_net)|zuon|||
+|[pi_crypto](https://github.com/GaiaWorld/pi_crypto)|zuon||没推到 crates.io|
+|[pi_vm](https://github.com/GaiaWorld/pi_vm)|zuon||没推到 crates.io|
+|[pi_store](https://github.com/GaiaWorld/pi_store)|zuon||没推到 crates.io|
+|[pi_db](https://github.com/GaiaWorld/pi_db)|zuon||没推到 crates.io|
+|[pi_net](https://github.com/GaiaWorld/pi_net)|zuon||没推到 crates.io|
 |[pi_async](https://github.com/GaiaWorld/pi_async)|zuon|||
 |[pi_async_file](https://github.com/GaiaWorld/pi_async_file)|zuon|||
 |[pi_async_macro](https://github.com/GaiaWorld/pi_async_macro)|zuon|||
@@ -115,7 +115,7 @@
 |[pi_tools](https://github.com/GaiaWorld/pi_tools)|废弃||
 |[pi_serv](https://github.com/GaiaWorld/pi_serv)|废弃||
 
-## 附录：内部项目 【内网 GitLab 中】
+## 附录：内网 GitLab 项目，不会 发布到 npm 或 crates.io
 
 #### 游戏
 
