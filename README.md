@@ -84,7 +84,7 @@
 |[pi_wtree](https://github.com/GaiaWorld/pi_wtree)|wzjsun(suncy)|||
 |[pi_wy_rng](https://github.com/GaiaWorld/pi_wy_rng)|wzjsun(suncy)|||
 
-## 计划不维护
+## 不计划 维护
 
 |链接|维护者|说明|
 |--|--|--|
