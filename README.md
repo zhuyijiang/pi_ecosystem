@@ -157,7 +157,7 @@
 |链接|维护者|概述|说明|
 |--|--|--|--|
 |[pi_packer](http://192.168.31.241:10082/tech/pi_packer)|yuq||js|
-|[pi_app](http://192.168.31.241:10082/tech/pi_core_app)|zhuy||js|
-|[app_start](http://192.168.31.241:10082/tech/app_start)|zhuy||js|
+|[pi_app](http://192.168.31.241:10082/tech/pi_core_app)|zhuy||rust|
+|[app_start](http://192.168.31.241:10082/tech/app_start)|zhuy||rust|
 |[pi_android](http://192.168.31.241:10082/tech/pi_android)|moyy||Java|
 |[pi_ios](http://192.168.31.241:10082/tech/pi_ios)|moyy||Swift|
